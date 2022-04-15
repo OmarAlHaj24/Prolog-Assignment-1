@@ -97,17 +97,3 @@ remainingCourses(S, finished, Temp, Temp).
 
 remainingCourses(S,T,Courses):-
 	remainingCourses(S,T,Courses,[]).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
